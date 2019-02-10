@@ -4,4 +4,4 @@
 - Create virtual environments for python with 
 - conda create -n yourenvname python=x.x anaconda
 - activate yourenvname
-- conda install scikit-learn, matplotlib, pandas, numpy            
+- conda install scikit-learn, matplotlib,seaborn, pandas, numpy            
